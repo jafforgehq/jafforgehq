@@ -24,6 +24,7 @@
 - [`google-analytics-mcp`](https://github.com/jafforgehq/google-analytics-mcp): Model Context Protocol tooling for querying Google Analytics with structured, automatable LLM workflows.
 - [`splitdecision`](https://github.com/jafforgehq/splitdecision): Decision-engine experimentation platform for evaluating product tradeoffs with AI-assisted analysis loops.
 - [`pocketllm`](https://github.com/jafforgehq/pocketllm): Local-first LLM runtime and interface experiments focused on privacy, speed, and practical agent workflows.
+- [`issueMark`](https://github.com/jafforgehq/issueMark): macOS menu-bar app for efficient screenshot annotation with arrows, text, rectangles, and redactions.
 
 ## About
 - 8+ years building production Android systems and performance-critical mobile features.
