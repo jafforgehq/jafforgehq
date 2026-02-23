@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Feda Hadziselimovic 👋</h1>
 <p align="center">
-  Android engineer turned AI + backend builder.
+  Software engineer building AI systems, protocol tooling, and product infrastructure.
   <br />
-  Building practical tools around analytics, LLMs, and automation.
+  Focused on MCP, LLM orchestration, and performance-focused apps across web/mobile.
 </p>
 
 <p align="center">
@@ -10,30 +10,25 @@
   <a href="https://www.linkedin.com/in/fedahadziselimovic/">LinkedIn</a>
 </p>
 
-## What I'm Building Right Now
-- [`google-analytics-mcp`](https://github.com/jafforgehq/google-analytics-mcp) - MCP workflows for faster analytics insights.
-- [`splitdecision`](https://github.com/jafforgehq/splitdecision) - Decision-focused product experiments with AI in the loop.
-- [`pocketllm`](https://github.com/jafforgehq/pocketllm) - Local-first and privacy-minded LLM app work.
-- [`issueMark`](https://github.com/jafforgehq/issueMark) - macOS menu-bar app for efficient screenshot annotation with arrows, text, rectangles, and redactions.
+## Core Stack
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Active Projects
+- [`google-analytics-mcp`](https://github.com/jafforgehq/google-analytics-mcp): Model Context Protocol tooling for querying Google Analytics with structured, automatable LLM workflows.
+- [`splitdecision`](https://github.com/jafforgehq/splitdecision): Decision-engine experimentation platform for evaluating product tradeoffs with AI-assisted analysis loops.
+- [`pocketllm`](https://github.com/jafforgehq/pocketllm): Local-first LLM runtime and interface experiments focused on privacy, speed, and practical agent workflows.
 
 ## About
-- 8+ years in Android development.
-- Current focus: backend systems, Kotlin Multiplatform, AI agents, and self-hosting.
-- Writing what I learn and ship at [`jafforge.com`](https://jafforge.com/).
-
-## Stack I Use Often
-`Kotlin` `Android` `KMP` `Python` `FastAPI` `MCP` `LLMs` `Docker`
-
-## GitHub Snapshot
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jafforgehq&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafforgehq&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=jafforgehq&hide_border=true" alt="GitHub streak" />
-</p>
+- 8+ years building production Android systems and performance-critical mobile features.
+- Current work centers on backend architecture, LLM systems, TypeScript/Astro web apps, and Swift/Kotlin clients.
+- Writing technical notes and build logs at [`jafforge.com`](https://jafforge.com/).
 
 ## Connect
 - Blog: https://jafforge.com/
