@@ -18,6 +18,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Active Projects
@@ -25,10 +26,12 @@
 - [`splitdecision`](https://github.com/jafforgehq/splitdecision): Decision-engine experimentation platform for evaluating product tradeoffs with AI-assisted analysis loops.
 - [`pocketllm`](https://github.com/jafforgehq/pocketllm): Local-first LLM runtime and interface experiments focused on privacy, speed, and practical agent workflows.
 - [`issueMark`](https://github.com/jafforgehq/issueMark): macOS menu-bar app for efficient screenshot annotation with arrows, text, rectangles, and redactions.
+- [`Site Analytics Tool`](https://jafforge.com/projects/site-analytics-tool/): Private, self-hosted analytics control center for monitoring traffic, search performance, sync health, and content opportunities across multiple websites.
 
 ## About
-- 8+ years building production Android systems and performance-critical mobile features.
-- Current work centers on backend architecture, LLM systems, TypeScript/Astro web apps, and Swift/Kotlin clients.
+- Engineering Manager for Platform & AI Enablement at Personify Health, supporting teams that build reliable, scalable healthcare technology.
+- 8+ years of hands-on engineering across Android/mobile, backend and platform systems - growing from individual contributor to technical lead and engineering manager.
+- I like bridging engineering execution, product priorities, and long-term system quality; my current explorations include AI-driven development, local LLMs, and practical developer tools.
 - Writing technical notes and build logs at [`jafforge.com`](https://jafforge.com/).
 
 ## Connect
