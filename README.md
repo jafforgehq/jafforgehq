@@ -22,6 +22,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Active Projects
+- [`Jaffer`](https://github.com/jafforgehq/jaffer): A calm macOS terminal with one session that never ends, a memory that learns from you, and an animated companion that shows what Claude Code is doing.
+- [`webtelemetry.dev`](https://webtelemetry.dev/): Free, independent stats on newly launched websites - what they're built with, where they're hosted, and whether they block AI crawlers - with a daily open dataset and JSON API.
 - [`google-analytics-mcp`](https://github.com/jafforgehq/google-analytics-mcp): Model Context Protocol tooling for querying Google Analytics with structured, automatable LLM workflows.
 - [`splitdecision`](https://github.com/jafforgehq/splitdecision): Decision-engine experimentation platform for evaluating product tradeoffs with AI-assisted analysis loops.
 - [`pocketllm`](https://github.com/jafforgehq/pocketllm): Local-first LLM runtime and interface experiments focused on privacy, speed, and practical agent workflows.
@@ -29,9 +31,10 @@
 - [`Site Analytics Tool`](https://jafforge.com/projects/site-analytics-tool/): Private, self-hosted analytics control center for monitoring traffic, search performance, sync health, and content opportunities across multiple websites.
 
 ## About
-- Engineering Manager for Platform & AI Enablement at Personify Health, supporting teams that build reliable, scalable healthcare technology.
+- Engineering Manager at Personify Health, leading a product team - while staying hands-on with AI: agent workflows, LLM tooling and AI-driven development are where I spend most of my building time.
+- A constant experimenter: I ship small tools, try new models and workflows early, and turn what works into products.
 - 8+ years of hands-on engineering across Android/mobile, backend and platform systems - growing from individual contributor to technical lead and engineering manager.
-- I like bridging engineering execution, product priorities, and long-term system quality; my current explorations include AI-driven development, local LLMs, and practical developer tools.
+- I like bridging engineering execution, product priorities, and long-term system quality; my current explorations include AI-driven development, local LLMs, and practical developer tools like Jaffer.
 - Writing technical notes and build logs at [`jafforge.com`](https://jafforge.com/).
 
 ## Connect
