@@ -22,13 +22,54 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Active Projects
-- [`Jaffer`](https://github.com/jafforgehq/jaffer): A calm macOS terminal with one session that never ends, a memory that learns from you, and an animated companion that shows what Claude Code is doing.
-- [`webtelemetry.dev`](https://webtelemetry.dev/): Free, independent stats on newly launched websites - what they're built with, where they're hosted, and whether they block AI crawlers - with a daily open dataset and JSON API.
+
+### Claude Code & AI tooling
+- [`Jaffer`](https://github.com/jafforgehq/jaffer): A calm macOS terminal with up to four split terminals, each with an animated companion (a mole, digital rain, a starfield and more) that shows what Claude Code is doing, plus what each answer cost.
+- [`jaffskils`](https://github.com/jafforgehq/jaffskils): My personal Claude Code skills marketplace - the plugins and skills I actually run day to day, installable in one command.
 - [`google-analytics-mcp`](https://github.com/jafforgehq/google-analytics-mcp): Model Context Protocol tooling for querying Google Analytics with structured, automatable LLM workflows.
+
+### Mac apps
+- [`Jaffloop`](https://github.com/jafforgehq/jaffloop): Menu bar app for engineering managers - track what you owe, what's owed to you, and what you told people. Local-first, with an MCP server so Claude can read and write it.
+- [`Orbion`](https://jafforgehq.github.io/orbion/): On-device App Store Optimization copilot for indie macOS developers, built with Swift, SwiftUI and Apple's Foundation Models.
+
+### Web
+- [`webtelemetry.dev`](https://webtelemetry.dev/): Free, independent stats on newly launched websites - what they're built with, where they're hosted, and whether they block AI crawlers - with a daily open dataset and JSON API.
+- [`Site Analytics Tool`](https://github.com/jafforgehq/site-analytics-tool): Open-source, self-hosted analytics dashboard for GA4, Google Search Console and Bing Webmaster Tools, with multi-site reporting, SEO insights and automated data sync.
+
+### Games
+- [`Last Bell`](https://github.com/jafforgehq/last-bell): Top-down zombie survival game in Godot 4.7 - clear a prison, run it as a base for 30 days, raid the dead town.
+
+<p align="center">
+  <a href="https://github.com/jafforgehq/jaffer">
+    <img src="https://raw.githubusercontent.com/jafforgehq/jaffer/main/docs/screenshots/02-terminal.png" width="760" alt="Jaffer: a calm macOS terminal with a mole companion cheering after a failing test was fixed" />
+  </a>
+  <br />
+  <sub>Jaffer, with its mole companion cheering after Claude fixed a failing test.</sub>
+</p>
+
+<details>
+<summary>Earlier projects</summary>
+
 - [`splitdecision`](https://github.com/jafforgehq/splitdecision): Decision-engine experimentation platform for evaluating product tradeoffs with AI-assisted analysis loops.
 - [`pocketllm`](https://github.com/jafforgehq/pocketllm): Local-first LLM runtime and interface experiments focused on privacy, speed, and practical agent workflows.
 - [`issueMark`](https://github.com/jafforgehq/issueMark): macOS menu-bar app for efficient screenshot annotation with arrows, text, rectangles, and redactions.
-- [`Site Analytics Tool`](https://jafforge.com/projects/site-analytics-tool/): Private, self-hosted analytics control center for monitoring traffic, search performance, sync health, and content opportunities across multiple websites.
+
+</details>
+
+## Latest from the blog
+<!-- BLOG-POST-LIST:START -->
+- [Building webtelemetry.dev: A Live Survey of the Web as It Launches](https://jafforge.com/posts/webtelemetry-live-survey-of-new-websites/)
+- [Why I Built a Self-Hosted Analytics Control Center for My Websites](https://jafforge.com/posts/self-hosted-site-analytics-control-center/)
+- [From Codebase to Clarity: Building an Onboarding Guide with AI in One Afternoon](https://jafforge.com/posts/ai-codebase-onboarding/)
+- [I Built a 3-Agent Workflow That Ships Dev Tools Daily](https://jafforge.com/posts/utility-forge-3-agent-workflow/)
+- [Google Analytics MCP: GA4 Data in Natural Language](https://jafforge.com/posts/google-analytics-mcp/)
+<!-- BLOG-POST-LIST:END -->
+
+## Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jafforgehq/jafforgehq/output/github-snake-dark.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/jafforgehq/jafforgehq/output/github-snake.svg" />
+</picture>
 
 ## About
 - Engineering Manager at Personify Health, leading a product team - while staying hands-on with AI: agent workflows, LLM tooling and AI-driven development are where I spend most of my building time.
