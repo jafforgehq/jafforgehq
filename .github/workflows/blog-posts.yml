@@ -1,0 +1,19 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # posts-only feed; the site-wide index.xml also lists project and policy pages
+          feed_list: "https://jafforge.com/posts/index.xml"
+          max_post_count: 5
