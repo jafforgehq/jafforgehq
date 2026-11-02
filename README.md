@@ -38,7 +38,6 @@
 
 ### Games
 - [`Aurora: Salvage`](https://jafforge.itch.io/aurora): Free top-down survivors-like extraction shooter in Godot 4 for Windows, macOS and Linux - loot an alien world, outlast the swarm, make the dropship. Two planets, two bosses, ten rotating missions, five languages and full controller support. Early build, in active development.
-- [`Holdfast`](https://jafforge.itch.io/goshawk): Medieval colony game in Godot 4 that you play in the browser with one thumb - raise a keep, survive the seasons and hold the walls against raiders. Early build.
 - [`Last Bell`](https://github.com/jafforgehq/last-bell): Top-down zombie survival game in Godot 4.7 - clear a prison, run it as a base for 30 days, raid the dead town.
 
 <p align="center">
